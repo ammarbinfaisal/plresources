@@ -51,5 +51,8 @@
 
 ## Type Systems / Effects
 - [Hindley-Milner](https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand)
+- [Ahnfelt/type-inference-by-example](https://github.com/Ahnfelt/type-inference-by-example)
+- [jozefg/learn-tt](https://github.com/jozefg/learn-tt)
 - [Notes on Hindley-Milner polymorphism](https://jgbm.github.io/eecs662f17/Notes-on-HM.html)
+- [CMU - Types and Programming Languages Schedule](https://www.cs.cmu.edu/~fp/courses/15814-f21/schedule.html)
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography)
