@@ -10,8 +10,10 @@
 - [Programming Language Implementation Summer School.](https://www.youtube.com/@pliss5319)
 - [Resources on Compilers for Functional Languages](https://github.com/soupi/rfc/blob/master/fun-compilers.md)
 - [Matt Might's articles](https://matt.might.net/articles/)
+- [jayconrod.com](https://jayconrod.com/posts)
 - [Great Works in Programming Languages - Collected by Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 - [Approachable PL Papers for Undergrads](https://gist.github.com/pdarragh/4f81236109f9575209d5ab7c5c3c3b58)
+- [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers)
 
 ## Courses
 - [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/)
@@ -38,6 +40,12 @@
 ## JIT
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial)
 - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-2-an-x64-jit/)
+- [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+- [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit)
+- [A primer on code generation in Cranelift](https://blog.benj.me/2021/02/17/cranelift-codegen-primer/)
+- [How JIT Compilers are Implemented and Fast](https://carolchen.me/blog/jits-impls/)
+- [The Sea of Nodes and the HotSpot JIT - Cliff Click](https://www.youtube.com/watch?v=98lt45Aj8mo)
+- [A JVM Does That??? by Dr Cliff Click](https://www.youtube.com/watch?v=-vizTDSz8NU)
 
 ## Type Systems / Effects
 - [Hindley-Milner](https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand)
