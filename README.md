@@ -2,6 +2,8 @@
 
 ## Basics
 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Mukul Rathi's articles](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+- [Writing A Compiler In Go](https://compilerbook.com/)
 
 ## Resource Collections
 - [Programming languages resources](https://bernsteinbear.com/pl-resources/) - Max Bernstein
