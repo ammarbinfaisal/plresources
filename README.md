@@ -19,6 +19,7 @@
 
 ## Courses
 - [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/)
+- [CS 6110: Advanced Programming Languages](https://www.cs.cornell.edu/courses/cs6110/2023sp/)
 - [UCSD - Advanced Compiler Design](https://ucsd-cse231-w21.github.io/)
 - [IITD - Advanced Compiler Techniques](https://iitd.github.io/col874/)
 - [UCB CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/)
