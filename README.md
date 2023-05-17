@@ -34,6 +34,9 @@
 
 ## Compile-time Memory Management
 - [compile time memory management models - r/programminglanguages](https://www.reddit.com/r/ProgrammingLanguages/comments/y3rq8w/compile_time_memory_management_models/)
+- [Linear Types - c2](https://wiki.c2.com/?LinearTypes)
+- [Unique Type - c2](https://wiki.c2.com/?UniqueType)
+- [Linear Type Systems - CS 6110](https://www.cs.cornell.edu/courses/cs6110/2017sp/lectures/lec30.pdf)
 - [Substructural Type Systems - CS 152](https://groups.seas.harvard.edu/courses/cs152/2019sp/lectures/lec17-substructural.pdf)
 - [Lobster's Memory Management](http://aardappel.github.io/lobster/memory_management.html)
 - [Zero-Cost Borrowing with Vale Regions](https://verdagon.dev/blog/zero-cost-borrowing-regions-overview)
