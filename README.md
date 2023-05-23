@@ -25,6 +25,12 @@
 - [UCB CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/)
 - [Virtual Machine Summer School 2016](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW)
 
+## Compiler Optimisation
+- [A Catalogue of Optimising Transforms](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
+- [Intel Microcode](https://www.agner.org/optimize/microarchitecture.pdf)
+- [Fabian Giesen](https://www.youtube.com/@fabiangiesen306)
+- [Combining Analyses, Combining Optimizations](https://scholarship.rice.edu/bitstream/handle/1911/96451/TR95-252.pdf)
+
 ## Garbage Collection
 - [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
 - [The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
