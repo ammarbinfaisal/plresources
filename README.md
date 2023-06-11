@@ -38,6 +38,7 @@
 - [Generational GC - Mono](https://www.mono-project.com/docs/advanced/garbage-collector/sgen/)
 - [Understanding Garbage Collection in JavaScriptCore](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
+- [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 
 ## Compile-time Memory Management
 - [compile time memory management models - r/programminglanguages](https://www.reddit.com/r/ProgrammingLanguages/comments/y3rq8w/compile_time_memory_management_models/)
