@@ -68,6 +68,10 @@
 - [Compiling Functional Languages - chalmers](https://www.cse.chalmers.se/edu/year/2011/course/CompFun/)
 - [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk)
 - [Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+- ### GHC
+  - [Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
+  - [2023 GHC Contributor's Workshop](https://www.youtube.com/playlist?list=PLQpeDZt0_xQfTQPvjsT1ub-qVPXJ6fVy0)
+  - [@lexi_lambda: The GHC optimization pipeline](https://www.youtube.com/watch?v=fdyh3YQ-ZWI)
 
 ## JIT
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial)
@@ -78,11 +82,6 @@
 - [How JIT Compilers are Implemented and Fast](https://carolchen.me/blog/jits-impls/)
 - [The Sea of Nodes and the HotSpot JIT - Cliff Click](https://www.youtube.com/watch?v=98lt45Aj8mo)
 - [A JVM Does That??? by Dr Cliff Click](https://www.youtube.com/watch?v=-vizTDSz8NU)
-
-# GHC
-- [Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
-- [2023 GHC Contributor's Workshop](https://www.youtube.com/playlist?list=PLQpeDZt0_xQfTQPvjsT1ub-qVPXJ6fVy0)
-- [@lexi_lambda: The GHC optimization pipeline](https://www.youtube.com/watch?v=fdyh3YQ-ZWI)
 
 ## Type Systems / Effects
 - [Hindley-Milner](https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand)
