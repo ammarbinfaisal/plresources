@@ -68,6 +68,8 @@
 - [Compiling Functional Languages - chalmers](https://www.cse.chalmers.se/edu/year/2011/course/CompFun/)
 - [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk)
 - [Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+- [Making a Fast Curry: Push/Enter vs.
+Eval/Apply](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/eval-apply.pdf)
 - ### GHC
   - [Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
   - [2023 GHC Contributor's Workshop](https://www.youtube.com/playlist?list=PLQpeDZt0_xQfTQPvjsT1ub-qVPXJ6fVy0)
