@@ -39,6 +39,15 @@
 - [Understanding Garbage Collection in JavaScriptCore](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- ### Incremental GCs
+  - [Train GC](https://beta.cs.au.dk/Papers/Train/train.html)
+  - [Treadmill GC](https://www.cofault.com/2022/07/treadmill.html)
+
+## Single Static Assignment
+- [Simple and Efficient Construction of Static Single Assignment Form](https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6)
+- [Efficiently computing static single assignment form and the control dependence graph](https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf)
+- [CMU - cs6120 - SSA](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/6/)
+- [SSABook](https://pfalcon.github.io/ssabook/latest/book-full.pdf)
 
 ## Compile-time Memory Management
 - [compile time memory management models - r/programminglanguages](https://www.reddit.com/r/ProgrammingLanguages/comments/y3rq8w/compile_time_memory_management_models/)
@@ -79,6 +88,7 @@ Eval/Apply](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial)
 - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-2-an-x64-jit/)
 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+- [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
 - [TigerShrimp: An Understandable Tracing JIT Compiler](https://odr.chalmers.se/server/api/core/bitstreams/87898837-623a-46f0-bcdc-06d2bf10805d/content)
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [A primer on code generation in Cranelift](https://blog.benj.me/2021/02/17/cranelift-codegen-primer/)
