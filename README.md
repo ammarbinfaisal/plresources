@@ -79,6 +79,7 @@ Eval/Apply](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial)
 - [Adventures in JIT compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-2-an-x64-jit/)
 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+- [TigerShrimp: An Understandable Tracing JIT Compiler](https://odr.chalmers.se/server/api/core/bitstreams/87898837-623a-46f0-bcdc-06d2bf10805d/content)
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [A primer on code generation in Cranelift](https://blog.benj.me/2021/02/17/cranelift-codegen-primer/)
 - [How JIT Compilers are Implemented and Fast](https://carolchen.me/blog/jits-impls/)
