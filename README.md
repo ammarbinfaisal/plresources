@@ -71,6 +71,7 @@
 - [Adoption and Focus: Practical Linear Types for Imperative Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/05/pldi02.pdf)
 - [Memory safety without runtime checks or garbage collection](https://dl.acm.org/doi/abs/10.1145/780732.780743)
 - [Perceus: Garbage Free Reference Counting with Reuse](https://www.microsoft.com/en-us/research/publication/perceus-garbage-free-reference-counting-with-reuse/)
+- [A Flexible Type System for Fearless Concurrency](https://dl.acm.org/doi/pdf/10.1145/3519939.3523443)
 
 ## Functional
 - [Compiling a Functional Language Using C++](https://danilafe.com/blog/00_compiler_intro/)
