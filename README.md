@@ -43,6 +43,9 @@
   - [Train GC](https://beta.cs.au.dk/Papers/Train/train.html)
   - [Treadmill GC](https://www.cofault.com/2022/07/treadmill.html)
 
+## Static Program Analysis
+- [Course taught by Fernando Magno Quintao Pereira](https://youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU&feature=shared)
+
 ## Single Static Assignment
 - [Simple and Efficient Construction of Static Single Assignment Form](https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6)
 - [Efficiently computing static single assignment form and the control dependence graph](https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf)
